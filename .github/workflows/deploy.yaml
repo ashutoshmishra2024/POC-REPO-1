@@ -2,7 +2,6 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'CloudFormation template for self-hosted GitHub runners in ECS Fargate'
 
-
 Parameters:
   GitHubToken:
     Type: String
